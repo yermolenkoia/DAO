@@ -1,0 +1,6 @@
+1 Kostya d1
+2 Anton d2
+3 Valera d2
+4 Sanya d2
+5 Leha d2
+6 Denis d1
